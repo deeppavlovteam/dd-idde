@@ -5,10 +5,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-**##** **[****0.2.22-Alpha****]**
+**##** **[****0.2.26-Alpha****]**
 
 \-  New list style nodes in graph
 \-  Updated code generation
+
+**##** **[****0.2.24-Alpha****]**
+
+\-  Fixes bug with data being incompletely written back to Python file after changes in the UI side.
+
+**##** **[****0.2.23-Alpha****]**
+
+\-  Fixes bug with layout not properly updating after changes in the code-behind.
+
+\-  Fixes bug where pressing "Enter" button in the auxiliary window crashes it.
+
+\-  Updates README.MD.
 
 **##** **[****0.2.20-Alpha****]**
 

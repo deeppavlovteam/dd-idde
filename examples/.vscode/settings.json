@@ -1,9 +1,0 @@
-{
-	"hediet.vscode-drawio.enableExperimentalFeatures": true,
-	"hediet.vscode-drawio.offline": true,
-	"hediet.vscode-drawio.plugins": [
-		{
-			"file": "${workspaceFolder}/tooltips-plugin.js"
-		}
-	]
-}
